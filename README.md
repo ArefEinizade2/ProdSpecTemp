@@ -1,4 +1,4 @@
-# ProductSpecTemp
+# ProdSpecTemp
 This repository implements a demo for **learning product graphs** by recovering three factor graphs from a stream of product graph signals. In the case of finding its contents useful for your research work, kindly please cite the following paper. Thanks a lot for your attention.
 
 [Einizade, Aref, and Sepideh Hajipour Sardouie. "Learning Product Graphs from Spectral Templates." arXiv preprint arXiv:2211.02893 (2022).](https://arxiv.org/abs/2211.02893)
