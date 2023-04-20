@@ -7,7 +7,9 @@ The codes were written in MATLAB 2018b, and the [GSPBOX](https://epfl-lts2.githu
 
 - Run `Demo_ProdSpecTemp.m` to generate the desired results. 
 
-![This is an image](GraphMetrics.png | width=100)
+![This is an image](GraphMetrics.png)
+
+<img src="GraphMetrics.png" width="100" height="100">
 
 ![This is an image](GraphAdj.png)
 
