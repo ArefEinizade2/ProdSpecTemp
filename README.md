@@ -11,6 +11,10 @@ The codes were written in MATLAB 2018b, and the [GSPBOX](https://epfl-lts2.githu
 
 <img src="GraphMetrics.png" width="600" height="600">
 
+<p align="center">
+  <img width="600" height="600" src="GraphMetrics.png">
+</p>
+
 ![This is an image](GraphAdj.png)
 
 Thanks a lot for your attention.
