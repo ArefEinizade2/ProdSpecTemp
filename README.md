@@ -9,7 +9,7 @@ The codes were written in MATLAB 2018b, and the [GSPBOX](https://epfl-lts2.githu
 
 ![This is an image](GraphMetrics.png)
 
-<img src="GraphMetrics.png" width="500" height="500">
+<img src="GraphMetrics.png" width="600" height="600">
 
 ![This is an image](GraphAdj.png)
 
